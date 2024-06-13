@@ -43,7 +43,7 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 ### 13 June 2024. Version 3.100
 - New repository / recreate sources (Emma Marichal)
-- Fixes this issue
+- Fixes this issue: https://github.com/google/fonts/issues/1849
 
 ## License
 

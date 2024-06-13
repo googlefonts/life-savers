@@ -6,3 +6,5 @@
 # Name or Organization <email address>
 
 Pablo Impallari
+Rodrigo Fuenzalida
+Brenda Gallo
